@@ -5,7 +5,7 @@
         <referenceBlock name="breeze.js">
             <arguments>
                 <argument name="better_compatibility" xsi:type="array">
-                    <item name="Amzn_AmazonPay" xsi:type="boolean">true</item>
+                    <item name="Amazon_Pay" xsi:type="boolean">true</item>
                 </argument>
             </arguments>
         </referenceBlock>
